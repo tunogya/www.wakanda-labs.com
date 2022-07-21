@@ -1,6 +1,6 @@
 tunogya:
   name: tunogya
-  title: Tom
+  title: DINGYA
   url: https://github.com/tunogya
   image_url: https://github.com/tunogya.png
 
@@ -9,3 +9,15 @@ wakandaplus:
   title: Wakanda Metaverse
   url: https://github.com/wakandaplus
   image_url: https://github.com/wakandaplus.png
+
+SeaSoonKeun:
+  name: SeaSoonKeun
+  title: SeaSoonKeun
+  url: https://github.com/SeaSoonKeun
+  image_url: https://github.com/SeaSoonKeun.png
+
+alanmpc:
+  name: alanmpc
+  title: alanmpc
+  url: https://github.com/alanmpc
+  image_url: https://github.com/alanmpc.png

@@ -1,8 +1,8 @@
 ---
-slug: welcome
-title: Welcome
-authors: [tunogya, wakandaplus]
-tags: [hello]
+slug: teams
+title: Teams
+authors: [tunogya, wakandaplus, SeaSoonKeun, alanmpc]
+tags: [teams]
 ---
 
 
