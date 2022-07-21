@@ -13,18 +13,16 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'wakandalabs', // Usually your GitHub org/user name.
-  projectName: 'wakanda-labs.com', // Usually your repo name.
+  
+  organizationName: 'wakandalabs',
+  projectName: 'wakanda-labs.com',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'zh-Hans'],
   },
 
   presets: [
@@ -76,7 +74,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Wakanda+',
@@ -115,14 +113,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/wakandalabs/docusaurus',
               },
-              {
-                label: 'Join us',
-                to: '/join-us',
-              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Wakanda Labs, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Wakanda Labs. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
