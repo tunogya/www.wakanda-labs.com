@@ -2,12 +2,12 @@ import React from 'react';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 
-export default function Home(): JSX.Element {
+export default function Wakandaplus(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Home | ${siteConfig.title}`}
-      description="Wakanda Metaverse">
+      title={`Wakanda+ | ${siteConfig.title}`}
+      description="Wakanda Plus">
 
     </Layout>
   );
