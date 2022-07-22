@@ -1,4 +1,4 @@
-name: amazon-s3-sync
+name: amazon s3 sync
 
 on:
   push:
