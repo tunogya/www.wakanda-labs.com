@@ -2,7 +2,7 @@
 slug: teams
 title: Teams
 authors: [tunogya, wakandaplus, SeaSoonKeun, alanmpc]
-tags: [teams]
+tags: [Teams]
 ---
 
 
