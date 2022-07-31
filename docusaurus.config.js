@@ -64,7 +64,6 @@ const config = {
             position: 'left',
             label: 'Developers',
           },
-          {to: '/community', label: 'Community', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/wakandalabs',
@@ -90,19 +89,6 @@ const config = {
             ],
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discord.com/invite/hzvXbjtzgj',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/wakandalabs',
-              },
-            ],
-          },
-          {
             title: 'About us',
             items: [
               {
@@ -113,6 +99,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/wakandalabs/docusaurus',
               },
+              {
+                label: 'Discord',
+                href: 'https://discord.com/invite/hzvXbjtzgj',
+              }
             ],
           },
         ],
