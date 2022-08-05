@@ -112,6 +112,9 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      googleAnalytics: {
+        trackingId: 'G-YFB5D0EF68',
+      }
     }),
 };
 
