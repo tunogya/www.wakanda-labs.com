@@ -43,6 +43,14 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/global.css'),
         },
+        googleAnalytics: {
+          trackingID: "G-YFB5D0EF68",
+          anonymizeIP: false,
+        },
+        sitemap: {
+          changefreq: 'daily',
+          filename: "sitemap.xml",
+        }
       }),
     ],
   ],
@@ -112,9 +120,6 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      googleAnalytics: {
-        trackingId: 'G-YFB5D0EF68',
-      }
     }),
 };
 
