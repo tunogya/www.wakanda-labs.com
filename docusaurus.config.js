@@ -65,7 +65,6 @@ const config = {
             src: 'img/logo.svg',
           },
           items: [
-            {href: 'https://wakandaplus.wakanda-labs.com/', label: 'Wakanda+', position: 'left'},
             {
               type: 'doc',
               docId: 'index',
@@ -73,6 +72,8 @@ const config = {
               label: 'Developers',
             },
             {to: '/blog', label: 'Blog', position: 'left'},
+            {href: 'https://wakandaplus.wakanda-labs.com/', label: 'Wakanda+', position: 'left'},
+            {href: 'https://www.wizardingpay.com/', label: 'Wizarding Pay', position: 'left'},
             {
               href: 'https://github.com/wakandalabs',
               label: 'GitHub',
