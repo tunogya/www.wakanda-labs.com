@@ -72,8 +72,8 @@ const config = {
               label: 'Developers',
             },
             {to: '/blog', label: 'Blog', position: 'left'},
+            {to: '/wizardingpay', label: 'Wizarding Pay', position: 'left'},
             {href: 'https://wakandaplus.wakanda-labs.com/', label: 'Wakanda+', position: 'left'},
-            {href: 'https://www.wizardingpay.com/', label: 'Wizarding Pay', position: 'left'},
             {
               href: 'https://github.com/wakandalabs',
               label: 'GitHub',
@@ -115,7 +115,7 @@ const config = {
               ],
             },
           ],
-          copyright: `Copyright © ${new Date().getFullYear()} Wakanda Labs. Built with Docusaurus.`,
+          copyright: `Copyright © ${new Date().getFullYear()} Wakanda Labs.`,
         },
         prism: {
           theme: lightCodeTheme,
