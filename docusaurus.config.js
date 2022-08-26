@@ -69,7 +69,7 @@ const config = {
               type: 'doc',
               docId: 'index',
               position: 'left',
-              label: 'Developers',
+              label: 'API',
             },
             {to: '/blog', label: 'Blog', position: 'left'},
             {to: '/wizardingpay', label: 'Wizarding Pay', position: 'left'},
@@ -89,7 +89,7 @@ const config = {
               items: [],
             },
             {
-              title: 'Developers',
+              title: 'API',
               items: [
                 {
                   label: 'Docs',
