@@ -73,7 +73,6 @@ const config = {
             },
             {to: '/blog', label: 'Blog', position: 'left'},
             {to: '/wizardingpay', label: 'Wizarding Pay', position: 'left'},
-            {href: 'https://wakandaplus.wakanda-labs.com/', label: 'Wakanda+', position: 'left'},
             {
               href: 'https://github.com/wakandalabs',
               label: 'GitHub',
@@ -84,10 +83,6 @@ const config = {
         footer: {
           style: 'light',
           links: [
-            {
-              title: 'Wakanda+',
-              items: [],
-            },
             {
               title: 'API',
               items: [
