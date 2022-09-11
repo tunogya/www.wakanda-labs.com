@@ -25,7 +25,7 @@ is registration-free. We will not collect any of your data. Even, we are not usi
 
 ## How to deposit token to Wizarding Pay?
 
-You can deposit token to Wizarding Pay by using the command `/depositqrcode` in our telegram bot @WizardingPayBot.
+You can deposit token to Wizarding Pay by using the command `/depositqrcode` in our telegram bot [@WizardingPayBot](https://t.me/WizardingPayBot).
 
 ## Who can use my token in my Wizarding Pay Account?
 
